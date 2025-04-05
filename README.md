@@ -1,19 +1,6 @@
 # Mysterybox
 
-This project is a study tool.
-
-## Development Start Guide
-
-This section describes how to get started with development work, including some set up steps and important project information.
-
-## Required Tools
-
-- Git
-- Text Editor (VS Code, Notepad, Vim, etc.)
-- Node.js and NPM
-- MongoDB
-- Prettier VS Code extension to auto-format code (recommended)
-- Postman to design/test API's (recommended)
+Engaging study tool web application for DiamondHacks 2025
 
 ## Running the Project
 
