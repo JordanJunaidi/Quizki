@@ -6,7 +6,7 @@ export const Navbar = () => {
   return (
     <nav>
       <Link to="/" className="title">
-        Website Name TBD
+        Quizki
       </Link>
       <ul>
         <li>
@@ -18,7 +18,6 @@ export const Navbar = () => {
         <li>
           <Link to="/create">Create Flashcards</Link>
         </li>
-
         <li>
           <Link to="/collection">Collection</Link>
         </li>
