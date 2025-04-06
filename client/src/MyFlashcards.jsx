@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import FlashcardList from './components/FlashcardList.jsx'
 import CreateFlashcard from './components/CreateFlashcard.jsx'
-import './App.css'
+import './MyFlashcards.css'
 
 function App() {
   const [flashcards, setFlashcards] = useState(SAMPLE_FLASHCARDS);
